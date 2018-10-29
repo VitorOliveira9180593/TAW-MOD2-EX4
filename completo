@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>TAW-MOD2-EX4</title>
+</head>
+<body>
+
+    <h1 style="background-color: #BCD4FF">
+        <img src="http://placehold.it/50x50" alt="O meu blog">
+        O MEU BLOG
+    </h1>
+
+    <ul>
+        <li><a href="#Abola">Abola</a></li>
+        <li><a href="#Ojogo">OJogo</a></li>
+        <li><a href="#Record">Record</a></li>
+        <li><a href="#Zerozero">Zerozero</a></li>
+    </ul>
+        <hr>
+
+        <article id="Abola">
+            <h2>ABola</h2>
+            <img src="logoabola.png" alt="Abola" width="200" height="60" >
+            <p>A BOLA é uma publicação periódica, informativa e especializada em desporto e tem como orientação fundamental a de dar ao desporto uma dimensão estimulante e fecunda.</p>
+        </article>
+
+        <hr>
+
+        <article id="Ojogo">
+            <h2>OJogo</h2>
+            <img src="logoojogo.png" alt="OJogo" width="200" height="100">
+            <p>Jornal diário desportivo que segue toda a atualidade desportiva com independência e rigor jornalístico.</p>
+        </article>
+
+        <hr>
+
+        <article id="Record">
+            <h2>Record</h2>
+            <img src="logorecord.png" alt="Record" width="200" height="100">
+            <p>As últimas notícias sobre Futebol, mercado, modalidades, os resultados e classificações. Mas também as grandes entrevistas, a melhor opinião, multimedia e ...</p>
+        </article>
+
+        <hr>
+
+        <article id="Zerozero">
+            <h2>Zerozero</h2>
+            <img src="logozerozero.png" alt="Zerozero" width="250" height="200">
+            <p>Toda a informação sobre as principais ligas europeias, competições internacionais de clubes e selecções, bem como acesso a resultados de torneios e ligas ...</p>
+        </article>
+            <hr>
+            <hr>
+        <aside>Você tem muitas qualidades e merece todos os elogios, não só como profissional, mas também como pessoa. Sei que posso contar com você, pois somos uma equipe unida, assim como sei que o sucesso estará sempre a nosso favor, pois trabalhamos para isso.</aside>
+            <hr>
+        <footer>©Vitor Hugo Oliveira 2018</footer>        
+</body>
+</html>
